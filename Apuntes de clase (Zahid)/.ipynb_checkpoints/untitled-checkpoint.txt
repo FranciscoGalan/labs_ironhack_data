@@ -1,0 +1,5 @@
+[Credentials]
+usuario=usuario123
+user=123
+[Config]
+[Browser]
