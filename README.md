@@ -49,5 +49,6 @@ En este repositorio están todos los labs resueltos del programa de Data Analyti
 
 - 
 
+### Extra
 
-
+- [Apuntes de clase (Zahid)](https://github.com/FranciscoGalan/labs_modelo_ironhack_data/tree/main/Apuntes%20de%20clase%20(Zahid))
